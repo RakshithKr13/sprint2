@@ -1,6 +1,6 @@
 
 
-# This is NewCast web application.
+# This is NowCast web application.
 ![](welcome.PNG)
 
 ## Login
